@@ -1,0 +1,5 @@
+﻿Write-Host "What is your favorite game from Nintendo?"
+Write-Host "1. Mario"
+Write-Host "2. Pokemon"
+Write-Host "3. Animal Crossing"
+$FavGame = Read-Host -Prompt "What is ur fav game from Nintendo?"
