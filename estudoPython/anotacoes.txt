@@ -1,0 +1,11 @@
+Boas práticas
+- Padrão de nome snake case (first_name; last_name)
+- Escolher nomes sugestivos, simples de ser identificado (limite diário de saque: limite_diario_saque)
+    Facilita a manutenabilidade do código
+- Nomes de constantes todo em maiúsculo 
+
+# Convertendo tipos
+- Utilização de construtores e sinais de divisão (no caso de número)
+- De número para string utilizar formatação: f"texto {age}"
+
+# Funções de entrada e saída
