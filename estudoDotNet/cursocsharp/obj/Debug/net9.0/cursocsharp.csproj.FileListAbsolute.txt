@@ -1,0 +1,15 @@
+C:\Users\sara.f.silva.simao\estudo\estudoDotNet\cursocsharp\bin\Debug\net9.0\cursocsharp.exe
+C:\Users\sara.f.silva.simao\estudo\estudoDotNet\cursocsharp\bin\Debug\net9.0\cursocsharp.deps.json
+C:\Users\sara.f.silva.simao\estudo\estudoDotNet\cursocsharp\bin\Debug\net9.0\cursocsharp.runtimeconfig.json
+C:\Users\sara.f.silva.simao\estudo\estudoDotNet\cursocsharp\bin\Debug\net9.0\cursocsharp.dll
+C:\Users\sara.f.silva.simao\estudo\estudoDotNet\cursocsharp\bin\Debug\net9.0\cursocsharp.pdb
+C:\Users\sara.f.silva.simao\estudo\estudoDotNet\cursocsharp\obj\Debug\net9.0\cursocsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sara.f.silva.simao\estudo\estudoDotNet\cursocsharp\obj\Debug\net9.0\cursocsharp.AssemblyInfoInputs.cache
+C:\Users\sara.f.silva.simao\estudo\estudoDotNet\cursocsharp\obj\Debug\net9.0\cursocsharp.AssemblyInfo.cs
+C:\Users\sara.f.silva.simao\estudo\estudoDotNet\cursocsharp\obj\Debug\net9.0\cursocsharp.csproj.CoreCompileInputs.cache
+C:\Users\sara.f.silva.simao\estudo\estudoDotNet\cursocsharp\obj\Debug\net9.0\cursocsharp.sourcelink.json
+C:\Users\sara.f.silva.simao\estudo\estudoDotNet\cursocsharp\obj\Debug\net9.0\cursocsharp.dll
+C:\Users\sara.f.silva.simao\estudo\estudoDotNet\cursocsharp\obj\Debug\net9.0\refint\cursocsharp.dll
+C:\Users\sara.f.silva.simao\estudo\estudoDotNet\cursocsharp\obj\Debug\net9.0\cursocsharp.pdb
+C:\Users\sara.f.silva.simao\estudo\estudoDotNet\cursocsharp\obj\Debug\net9.0\cursocsharp.genruntimeconfig.cache
+C:\Users\sara.f.silva.simao\estudo\estudoDotNet\cursocsharp\obj\Debug\net9.0\ref\cursocsharp.dll
