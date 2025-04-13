@@ -23,3 +23,7 @@ sem a mensagem depois do -m ele abre o vim
 
 - Clonar branch secundária
     - `git clone linkDabranch --branch nomeDaBranch --single-branch`
+
+- Desativar repositório Git
+    - `rm -rf .git` | apaga o arquivo .git
+  
